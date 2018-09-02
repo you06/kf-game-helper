@@ -10,9 +10,9 @@
 
 #### box.js
 
-inject box 
+inject box open function into the page.
 
-> open indicated amount boxes automatically.
+open indicated amount boxes automatically.
 
 ```
 Inject function openBox into global space, usage: openBox([box type], [box amount])
@@ -27,7 +27,7 @@ use openAll() to automatically open all the boxes.
 enjoy ^_^
 ```
 
-> A button to trigger openAll function
+A button to trigger openAll function
 
 ![image](https://user-images.githubusercontent.com/9587680/44957163-83734d80-af01-11e8-8f2d-7b277dd17cf4.png)
 
